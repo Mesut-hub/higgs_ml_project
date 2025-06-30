@@ -21,13 +21,12 @@ Model Performance Comparison
 
 ### ROC Curve Comparison
 
-
+![roc_comparison](https://github.com/user-attachments/assets/b1a0bf16-627e-4fc4-aa9b-cbf8b7bacc55)
 
 
 ### Feature Importance
 
-
-
+![feature_importance](https://github.com/user-attachments/assets/a3ebc37a-e6f6-446d-aa57-9cad15d6be1c)
 
 
 ### Project Structure
@@ -108,6 +107,17 @@ Model Performance Comparison
 
        python latex_docker.py
 
+## If required files are not generated, follow the steps:
+
+1. Go to the generate_visualizations.ipynb
+
+2. Run all cells
+
+
+> Following command is not neccessary to run:
+
+        jupyter notebook generate_visualizations.ipynb
+
 ### Key Findings
 
 1. XGBoost Dominates: Achieved best performance across all metrics (AUC: 0.812)
@@ -125,8 +135,9 @@ Model Performance Comparison
       ![image](https://github.com/user-attachments/assets/6750de73-9272-4888-a701-ee7b6f7d44bd)
 
 
-### Feature Importance
+### XGBoost Feature Importance
 
+![xgboost_feature_importance](https://github.com/user-attachments/assets/9a764b86-394a-41e3-9d97-cdda535e0c1a)
 
 
 ### Conclusion
