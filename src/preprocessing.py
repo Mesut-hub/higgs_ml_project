@@ -27,7 +27,7 @@ class OutlierCapper(BaseEstimator, TransformerMixin):
         return X.values
 
 def preprocess_data():
-    df = pd.read_csv('data/HIGGS.csv', header=None)
+    df = pd.read_csv('./data/HIGGS.csv', header=None)
     X = df.iloc[:, 1:].values
     y = df.iloc[:, 0].values
     
