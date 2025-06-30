@@ -1,0 +1,535 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex)
+ restricted \write18 enabled.
+entering extended mode
+(./final_report.tex
+LaTeX2e <2016/02/01>
+Babel <3.9q> and hyphenation patterns for 81 language(s) loaded.
+(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size11.clo))
+(/usr/share/texlive/texmf-dist/tex/latex/tcolorbox/tcolorbox.sty
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-common-lists.t
+ex)) (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
+(/usr/share/texlive/texmf-dist/tex/latex/ms/everyshi.sty))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex))
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/graphics.cfg)
+(/usr/share/texlive/texmf-dist/tex/latex/pdftex-def/pdftex.def
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/infwarerr.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ltxcmds.sty))))
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeysfiltered.code.t
+ex)) (/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-pdftex.def
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-pdf.de
+f)))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.
+tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.code.
+tex)) (/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/color.cfg))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic.code
+.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigonomet
+ric.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.random.cod
+e.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.comparison
+.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.code.
+tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round.code
+.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.code.
+tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integerari
+thmetics.code.tex)))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.code.te
+x)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconstruct.
+code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage.code
+.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.code.te
+x)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicstate.c
+ode.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransformation
+s.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.code.tex
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreobjects.code.t
+ex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathprocessing
+.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.code.te
+x)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.code.
+tex))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.code.te
+x)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransparency.c
+ode.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepatterns.code.
+tex)))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.code.tex
+) (/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.tex
+)
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-0-65
+.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-1-18
+.sty)) (/usr/share/texlive/texmf-dist/tex/latex/tools/verbatim.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/environ/environ.sty
+(/usr/share/texlive/texmf-dist/tex/latex/trimspaces/trimspaces.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/tcolorbox/tcbbreakable.code.tex
+Library (tcolorbox): 'tcbbreakable.code.tex' version '3.90'
+)) (/usr/share/texlive/texmf-dist/tex/latex/parskip/parskip.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/caption/caption.sty
+(/usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/float/float.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/enumerate.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifpdf.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifvtex.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/ifxetex/ifxetex.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+For additional information on amsmath, use the `?' option.
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/base/textcomp.sty
+(/usr/share/texlive/texmf-dist/tex/latex/base/ts1enc.def))
+(/usr/share/texlive/texmf-dist/tex/latex/upquote/upquote.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/eurosym/eurosym.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
+(/usr/share/texlive/texmf-dist/tex/latex/base/t1enc.def))
+(/usr/share/texlive/texmf-dist/tex/latex/greek-fontenc/alphabeta.sty
+(/usr/share/texlive/texmf-dist/tex/latex/greek-fontenc/textalpha.sty
+(/usr/share/texlive/texmf-dist/tex/latex/greek-fontenc/lgrenc.def
+(/usr/share/texlive/texmf-dist/tex/latex/greek-fontenc/greek-fontenc.def))))
+(/usr/share/texlive/texmf-dist/tex/latex/fancyvrb/fancyvrb.sty
+Style option: `fancyvrb' v2.7a, with DG/SPQR fixes, and firstline=lastline fix 
+<2008/02/07> (tvz))
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/grffile.sty
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifluatex.sty))))
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/adjustbox/adjustbox.sty
+(/usr/share/texlive/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+(/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkeyval.tex
+(/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkvutils.tex)))
+(/usr/share/texlive/texmf-dist/tex/latex/adjustbox/adjcalc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/adjustbox/trimclip.sty
+(/usr/share/texlive/texmf-dist/tex/latex/collectbox/collectbox.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/adjustbox/tc-pdftex.def))
+(/usr/share/texlive/texmf-dist/tex/latex/ifoddpage/ifoddpage.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/varwidth/varwidth.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/auxhook.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def)
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/hyperref.cfg)
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty))
+
+Package hyperref Message: Driver (autodetected): hpdftex.
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hpdftex.def
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/titling/titling.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/longtable.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/booktabs/booktabs.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/array.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/calc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/enumitem/enumitem.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/ulem/ulem.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/soul/soul.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/jknapltx/mathrsfs.sty)
+No file final_report.aux.
+(/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmr.fd)
+(/usr/share/texlive/texmf-dist/tex/latex/cbfonts-fd/lgrcmr.fd)
+ABD: EveryShipout initializing macros
+(/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+) (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/grfext.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg))
+(/usr/share/texlive/texmf-dist/tex/latex/caption/ltcaption.sty)
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: <default>
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(72.26999pt, 469.75502pt, 72.26999pt)
+* v-part:(T,H,B)=(72.26999pt, 650.43001pt, 72.26999pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=469.75502pt
+* \textheight=650.43001pt
+* \oddsidemargin=0.0pt
+* \evensidemargin=0.0pt
+* \topmargin=-37.0pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=11.0pt
+* \footskip=30.0pt
+* \marginparwidth=59.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+(/usr/share/texlive/texmf-dist/tex/latex/greek-fontenc/alphabeta-lgr.def)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/gettitlestring.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd)
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd)
+(/usr/share/texlive/texmf-dist/tex/latex/jknapltx/ursfs.fd)
+
+LaTeX Warning: No \author given.
+
+! Undefined control sequence.
+l.420 Hyperparameter Optimization\n
+                                   '', ``\#\# Üsküdar Üniversitesi Fen
+! Undefined control sequence.
+l.421 Bilimleri Enstitüsü\n
+                             '', ``\#\#\# Makine Öğrenmesi Final Ödevi'' ...
+
+! Undefined control sequence.
+l.425 ..., ``source'': {[} ``\# Import libraries\n
+                                                  '', ``import numpy as
+! Undefined control sequence.
+l.426 np\n
+          '', ``import pandas as pd\n'', ``import matplotlib.pyplot as
+! Undefined control sequence.
+l.426 np\n'', ``import pandas as pd\n
+                                     '', ``import matplotlib.pyplot as
+! Undefined control sequence.
+l.427 plt\n
+           '', ``import seaborn as sns\n'', ``from sklearn.model\_selection
+! Undefined control sequence.
+l.427 plt\n'', ``import seaborn as sns\n
+                                        '', ``from sklearn.model\_selection
+! Undefined control sequence.
+l.428 import train\_test\_split\n
+                                 '', ``from pathlib import Path\n'', ``\n'',
+! Undefined control sequence.
+l.428 ...\_split\n'', ``from pathlib import Path\n
+                                                  '', ``\n'',
+! Undefined control sequence.
+l.428 ...n'', ``from pathlib import Path\n'', ``\n
+                                                  '',
+! Undefined control sequence.
+l.429 ``\# Set global styles\n
+                              '', ``plt.style.use(`ggplot')\n'',
+! Undefined control sequence.
+l.429 ...l styles\n'', ``plt.style.use(`ggplot')\n
+                                                  '',
+! Undefined control sequence.
+l.430 ``sns.set\_palette(`viridis')\n
+                                     '',
+! Undefined control sequence.
+l.433 ...{]}, ``source'': {[} ``\# Load the data\n
+                                                  '',
+! Undefined control sequence.
+l.434 ...ath = Path(`../data/higgs\_sample.csv')\n
+                                                  '', ``df =
+! Undefined control sequence.
+l.435 pd.read\_csv(data\_path, header=None)\n
+                                             '', ``\n'', ``\# Name columns
+! Undefined control sequence.
+l.435 ...d\_csv(data\_path, header=None)\n'', ``\n
+                                                  '', ``\# Name columns
+! Undefined control sequence.
+l.436 according to HIGGS dataset documentation\n
+                                                '', ``columns =
+! Undefined control sequence.
+l.438 29){]}\n
+              '', ``df.columns = columns\n'', ``\n'', ``\# Display dataset
+! Undefined control sequence.
+l.438 29){]}\n'', ``df.columns = columns\n
+                                          '', ``\n'', ``\# Display dataset
+! Undefined control sequence.
+l.438 29){]}\n'', ``df.columns = columns\n'', ``\n
+                                                  '', ``\# Display dataset
+! Undefined control sequence.
+l.439 info\n
+            '', ``print(f"Dataset shape: \{df.shape\}")\n'',
+! Undefined control sequence.
+l.439 ...``print(f"Dataset shape: \{df.shape\}")\n
+                                                  '',
+! Undefined control sequence.
+l.440 ``print("\textbackslash nFirst 5 rows:")\n
+                                                '', ``display(df.head())\n'',
+! Undefined control sequence.
+l.440 ...rst 5 rows:")\n'', ``display(df.head())\n
+                                                  '',
+! Undefined control sequence.
+l.441 ``\n
+          '', ``\# Class distribution\n'', ``class\_dist =
+! Undefined control sequence.
+l.441 ``\n'', ``\# Class distribution\n
+                                       '', ``class\_dist =
+! Undefined control sequence.
+l.442 ...label'{]}.value\_counts(normalize=True)\n
+                                                  '',
+! Undefined control sequence.
+l.443 ...("\textbackslash nClass distribution:")\n
+                                                  '',
+! Undefined control sequence.
+l.445 ...urce'': {[} ``\#\# 2. Veri Ön İşleme\n
+                                                  '',
+! Undefined control sequence.
+l.449 OutlierCapper\n
+                     '', ``from sklearn.preprocessing import MinMaxScaler\n'',
+! Undefined control sequence.
+l.449 ...learn.preprocessing import MinMaxScaler\n
+                                                  '',
+! Undefined control sequence.
+l.450 ``\n
+          '', ``\# Separate features and target\n'', ``X =
+! Undefined control sequence.
+l.450 ``\n'', ``\# Separate features and target\n
+                                                 '', ``X =
+! Undefined control sequence.
+l.451 df.drop(`class\_label', axis=1)\n
+                                       '', ``y = df{[}`class\_label'{]}\n'',
+! Undefined control sequence.
+l.451 ...is=1)\n'', ``y = df{[}`class\_label'{]}\n
+                                                  '',
+! Undefined control sequence.
+l.452 ``\n
+          '', ``\# Outlier handling\n'', ``capper =
+! Undefined control sequence.
+l.452 ``\n'', ``\# Outlier handling\n
+                                     '', ``capper =
+! Undefined control sequence.
+l.453 OutlierCapper(factor=1.5)\n
+                                 '', ``X\_capped =
+! Undefined control sequence.
+l.454 ...r.fit\_transform(X), columns=X.columns)\n
+                                                  '', ``\n'',
+! Undefined control sequence.
+l.454 ...ransform(X), columns=X.columns)\n'', ``\n
+                                                  '',
+! Undefined control sequence.
+l.455 ...ualize before/after for sample features\n
+                                                  '', ``fig, axes =
+! Undefined control sequence.
+l.456 plt.subplots(2, 2, figsize=(12, 8))\n
+                                           '',
+! Undefined control sequence.
+l.458 0{]})\n
+             '', ``axes{[}0, 0{]}.set\_title(`Original Features
+! Undefined control sequence.
+l.459 (Sample)')\n
+                  '', ``\n'', ``sns.boxplot(data=X\_capped{[}{[}`feature\_1',
+! Undefined control sequence.
+l.459 (Sample)')\n'', ``\n
+                          '', ``sns.boxplot(data=X\_capped{[}{[}`feature\_1',
+! Undefined control sequence.
+l.460 `feature\_2'{]}{]}, ax=axes{[}0, 1{]})\n
+                                              '', ``axes{[}0,
+! Undefined control sequence.
+l.461 ...title(`After Outlier Capping (Sample)')\n
+                                                  '', ``\n'', ``\#
+! Undefined control sequence.
+l.461 ...fter Outlier Capping (Sample)')\n'', ``\n
+                                                  '', ``\#
+! Undefined control sequence.
+l.462 Scaling\n
+               '', ``scaler = MinMaxScaler()\n'', ``X\_scaled =
+! Undefined control sequence.
+l.462 Scaling\n'', ``scaler = MinMaxScaler()\n
+                                              '', ``X\_scaled =
+! Undefined control sequence.
+l.463 ...ransform(X\_capped), columns=X.columns)\n
+                                                  '',
+! Undefined control sequence.
+l.464 ``\n
+          '', ``\# Visualize scaling results\n'',
+! Undefined control sequence.
+l.464 ``\n'', ``\# Visualize scaling results\n
+                                              '',
+! Undefined control sequence.
+l.466 0{]})\n
+             '', ``axes{[}1, 0{]}.set\_title(`Scaled Feature 1
+! Undefined control sequence.
+l.467 Distribution')\n
+                      '', ``\n'', ``sns.histplot(X\_scaled{[}`feature\_2'{]},
+! Undefined control sequence.
+l.467 Distribution')\n'', ``\n
+                              '', ``sns.histplot(X\_scaled{[}`feature\_2'{]},
+! Undefined control sequence.
+l.468 kde=True, ax=axes{[}1, 1{]})\n
+                                    '', ``axes{[}1, 1{]}.set\_title(`Scaled
+! Undefined control sequence.
+l.469 Feature 2 Distribution')\n
+                                '', ``\n'', ``plt.tight\_layout()\n'',
+! Undefined control sequence.
+l.469 Feature 2 Distribution')\n'', ``\n
+                                        '', ``plt.tight\_layout()\n'',
+! Undefined control sequence.
+l.469 ...on')\n'', ``\n'', ``plt.tight\_layout()\n
+                                                  '',
+! Undefined control sequence.
+l.471 dpi=300)\n
+                '', ``plt.show()'' {]} \}, \{ ``cell\_type'': ``markdown'',
+! Undefined control sequence.
+l.472 ...ource'': {[} ``\#\# 3. Özellik Seçimi\n
+                                                  '',
+! Undefined control sequence.
+l.476 import select\_features\n
+                               '', ``from sklearn.feature\_selection import
+! Undefined control sequence.
+l.477 f\_classif\n
+                  '', ``\n'', ``\# Feature selection\n'', ``X\_selected,
+! Undefined control sequence.
+l.477 f\_classif\n'', ``\n
+                          '', ``\# Feature selection\n'', ``X\_selected,
+! Undefined control sequence.
+l.477 ...sif\n'', ``\n'', ``\# Feature selection\n
+                                                  '', ``X\_selected,
+! Undefined control sequence.
+l.479 method=`anova', k=15)\n
+                             '', ``\n'', ``\# Get selected feature names\n'',
+! Undefined control sequence.
+l.479 method=`anova', k=15)\n'', ``\n
+                                     '', ``\# Get selected feature names\n'',
+! Undefined control sequence.
+l.479 ...``\n'', ``\# Get selected feature names\n
+                                                  '',
+! Undefined control sequence.
+l.481 ...led.columns{[}selected\_idx{]}.tolist()\n
+                                                  '', ``print(f"Selected
+! Undefined control sequence.
+l.482 \{len(selected\_features)\} features:")\n
+                                               '',
+! Undefined control sequence.
+l.483 ``print(selected\_features)\n
+                                   '', ``\n'', ``\# Calculate ANOVA F-scores
+! Undefined control sequence.
+l.483 ``print(selected\_features)\n'', ``\n
+                                           '', ``\# Calculate ANOVA F-scores
+! Undefined control sequence.
+l.484 for all features\n
+                        '', ``f\_scores, \_ = f\_classif(X\_scaled, y)\n'',
+! Undefined control sequence.
+l.484 ...\_scores, \_ = f\_classif(X\_scaled, y)\n
+                                                  '',
+! Undefined control sequence.
+l.485 ``feature\_scores = pd.DataFrame(\{\n
+                                           '', '' `Feature':
+! Undefined control sequence.
+l.486 X\_scaled.columns,\n
+                          ``,'' `F\_Score':
+! Undefined control sequence.
+l.487 f\_scores\n
+                 ``,''\}).sort\_values(`F\_Score',
+! Undefined control sequence.
+l.488 ascending=False)\n
+                        ``,''\n``,''\# Visualize feature
+! Undefined control sequence.
+l.488 ascending=False)\n``,''\n
+                               ``,''\# Visualize feature
+! Undefined control sequence.
+l.489 importance\n
+                  ``,''plt.figure(figsize=(12,
+! Undefined control sequence.
+l.490 8))\n
+           ``,''sns.barplot(x=`F\_Score', y=`Feature',
+! Undefined control sequence.
+l.491 data=feature\_scores.head(20))\n
+                                      ``,''plt.title(`Top 20 Features by ANOVA
+! Undefined control sequence.
+l.492 F-Score')\n
+                 ``,''plt.xlabel(`F-Score')\n``,''plt.ylabel(`Feature')\n``,...
+
+! Undefined control sequence.
+l.492 F-Score')\n``,''plt.xlabel(`F-Score')\n
+                                             ``,''plt.ylabel(`Feature')\n``,...
+
+! Undefined control sequence.
+l.492 ...(`F-Score')\n``,''plt.ylabel(`Feature')\n
+                                                  ``,''plt.tight\_layout()\n...
+
+! Undefined control sequence.
+l.492 ...el(`Feature')\n``,''plt.tight\_layout()\n
+                                                  ``,''plt.savefig(`../outpu...
+
+! Undefined control sequence.
+l.493 dpi=300)\n
+                ``,''plt.show()'' {]} \}, \{ ``cell\_type'': ``markdown'',
+! Undefined control sequence.
+l.495 Değerlendirme\n
+                      '', ``\#\#\# İç İçe Çapraz Doğrulama (Nested
+! Undefined control sequence.
+l.498 {[}{]}, ``source'': {[} ``import joblib\n
+                                               '', ``from src.modeling import
+! Undefined control sequence.
+l.499 get\_models\n
+                   '', ``from src.evaluation import evaluate\_model\n'',
+! Undefined control sequence.
+l.499 ...m src.evaluation import evaluate\_model\n
+                                                  '',
+! Undefined control sequence.
+l.500 ``\n
+          '', ``\# Load pre-trained models and results\n'', ``model\_results =
+! Undefined control sequence.
+l.500 ...`\# Load pre-trained models and results\n
+                                                  '', ``model\_results =
+! Undefined control sequence.
+l.501 \{\}\n
+            '', ``models = get\_models()\n'', ``\n'', ``for model\_name in
+! Undefined control sequence.
+l.501 \{\}\n'', ``models = get\_models()\n
+                                          '', ``\n'', ``for model\_name in
+! Undefined control sequence.
+l.501 \{\}\n'', ``models = get\_models()\n'', ``\n
+                                                  '', ``for model\_name in
+! Undefined control sequence.
+l.502 models.keys():\n
+                      '', '' try:\n``,'' \# Load metrics\n``,'' metrics\_path
+! Undefined control sequence.
+l.502 models.keys():\n'', '' try:\n
+                                   ``,'' \# Load metrics\n``,'' metrics\_path
+(That makes 100 errors; please try again.)
+!  ==> Fatal error occurred, no output PDF file produced!
+Transcript written on final_report.log.
