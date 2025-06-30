@@ -1,4 +1,4 @@
-**HiggsML Pipeline: Feature Selection & Hyperparameter Optimization**
+# HiggsML Pipeline: Feature Selection & Hyperparameter Optimization
 
 <ins>Project Overview</ins>
 
@@ -144,4 +144,4 @@ This implementation provides a robust template for similar high-energy physics c
 
 License
 
-This project is licensed under the NeuronWorks AI License.
+This project is licensed under the <ins>NeuronWorks AI</ins> License.
