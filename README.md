@@ -1,6 +1,7 @@
 # HiggsML Pipeline: Feature Selection & Hyperparameter Optimization
 
-<ins>Project Overview</ins>
+
+## <ins>Project Overview</ins>
 
 This project implements a complete machine learning pipeline for the HIGGS dataset, focusing on feature selection and hyperparameter optimization. The HIGGS dataset contains 11 million samples of high-energy physics data, with 28 features distinguishing between Higgs boson signals (class 1) and background noise (class 0). For computational efficiency, we used a random sample of 100,000 observations.
 
@@ -12,29 +13,29 @@ This project implements a complete machine learning pipeline for the HIGGS datas
 ![Logo full](https://github.com/user-attachments/assets/727625d6-0fcf-4653-a3e0-f9b44bf581cf)
 
 
-Key Results
+### Key Results
 
 Model Performance Comparison
 
 ![image](https://github.com/user-attachments/assets/fed29a17-83dc-4969-8c1b-5421093067a6)
 
-ROC Curve Comparison
+### ROC Curve Comparison
 
 
 
 
-Feature Importance
+### Feature Importance
 
 
 
 
 
-Project Structure
+### Project Structure
 
 ![image](https://github.com/user-attachments/assets/d93ace03-59b1-463a-9e19-3a37a7bf34ed)
 
 
-Methodology
+### Methodology
 1. Data Preprocessing
     Outlier Handling: IQR method to cap outliers at 1.5 times the interquartile range
 
@@ -52,15 +53,15 @@ Methodology
 
         Inner Loop: 3-fold for hyperparameter tuning
 
-Tested four models:
+    Tested four models:
 
-  K-Nearest Neighbors (KNN)
+      K-Nearest Neighbors (KNN)
 
-  Support Vector Machine (SVM)
+      Support Vector Machine (SVM)
 
-  Multi-Layer Perceptron (MLP)
+      Multi-Layer Perceptron (MLP)
 
-  XGBoost
+      XGBoost
 
 4. Evaluation
     Metrics: Accuracy, Precision, Recall, F1 Score, ROC-AUC
@@ -69,7 +70,7 @@ Tested four models:
 
     Comprehensive performance analysis
 
-    Installation & Setup
+### Installation & Setup
    
 1. Clone the repository:
 
@@ -93,7 +94,7 @@ Tested four models:
 
        pip install -r requirements.txt
 
-Running the Pipeline
+### Running the Pipeline
 
 1. Download the dataset (100,000 samples):
 
@@ -107,7 +108,7 @@ Running the Pipeline
 
        python latex_docker.py
 
-Key Findings
+### Key Findings
 
 1. XGBoost Dominates: Achieved best performance across all metrics (AUC: 0.812)
   
@@ -124,11 +125,11 @@ Key Findings
       ![image](https://github.com/user-attachments/assets/6750de73-9272-4888-a701-ee7b6f7d44bd)
 
 
-Feature Importance
+### Feature Importance
 
 
 
-Conclusion
+### Conclusion
 
 The XGBoost model demonstrated superior performance in distinguishing Higgs boson signals from background noise. The pipeline successfully:
 
@@ -142,6 +143,6 @@ The XGBoost model demonstrated superior performance in distinguishing Higgs boso
 
 This implementation provides a robust template for similar high-energy physics classification tasks.
 
-License
+### License
 
 This project is licensed under the <ins>NeuronWorks AI</ins> License.
