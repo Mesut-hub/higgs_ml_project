@@ -7,7 +7,7 @@ This project implements a complete machine learning pipeline for the HIGGS datas
 https://img.shields.io/badge/Python-3.11-blue.svg
 
 
-![Logo full](https://github.com/user-attachments/assets/727625d6-0fcf-4653-a3e0-f9b44bf581cf){: width="20%" }
+![Logo full](https://github.com/user-attachments/assets/727625d6-0fcf-4653-a3e0-f9b44bf581cf)
 
 
 Key Results
