@@ -1,10 +1,11 @@
-<font face="Arial" color="blue" size="20">HiggsML Pipeline: Feature Selection & Hyperparameter Optimization</font>
+![Python-3 11-blue](https://github.com/user-attachments/assets/6e8054b1-1bb4-4418-9aea-9e37ea9225a4)<font face="Arial" color="blue" size="20">HiggsML Pipeline: Feature Selection & Hyperparameter Optimization</font>
 
 <ins>Project Overview</ins>
 
 This project implements a complete machine learning pipeline for the HIGGS dataset, focusing on feature selection and hyperparameter optimization. The HIGGS dataset contains 11 million samples of high-energy physics data, with 28 features distinguishing between Higgs boson signals (class 1) and background noise (class 0). For computational efficiency, we used a random sample of 100,000 observations.
 
-https://img.shields.io/badge/Python-3.11-blue.svg
+![Up<svg xmlns="http://www.w3.org/2000/svg" width="84" height="20" role="img" aria-label="Python: 3.11"><title>Python: 3.11</title><linearGradient id="s" x2="0" y2="100%"><stop offset="0" stop-color="#bbb" stop-opacity=".1"/><stop offset="1" stop-opacity=".1"/></linearGradient><clipPath id="r"><rect width="84" height="20" rx="3" fill="#fff"/></clipPath><g clip-path="url(#r)"><rect width="49" height="20" fill="#555"/><rect x="49" width="35" height="20" fill="#007ec6"/><rect width="84" height="20" fill="url(#s)"/></g><g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="110"><text aria-hidden="true" x="255" y="150" fill="#010101" fill-opacity=".3" transform="scale(.1)" textLength="390">Python</text><text x="255" y="140" transform="scale(.1)" fill="#fff" textLength="390">Python</text><text aria-hidden="true" x="655" y="150" fill="#010101" fill-opacity=".3" transform="scale(.1)" textLength="250">3.11</text><text x="655" y="140" transform="scale(.1)" fill="#fff" textLength="250">3.11</text></g></svg>loading Python-3.11-blue.svg…]()
+
 
 
 ![Logo full](https://github.com/user-attachments/assets/727625d6-0fcf-4653-a3e0-f9b44bf581cf)
